@@ -10,8 +10,10 @@ SignalR.TypeScript helps you generate TypeScript type definitions for your Signa
 
 Some benefits of using TypeScript include:
 
-Build-time type checking (instead of just runtime)
-Better tooling support (e.g. great IntelliSense support on Visual Studio)
+- Build-time type checking (instead of just runtime)
+- Better tooling support (e.g. great IntelliSense support on Visual Studio)
+
+
 If you prefer to use TypeScript instead of raw JavaScript on your client code, this tool can be really handy and would save you from hand-rolling your .d.ts files or using “any” everywhere. Please note that this is still in “alpha” so there might be rough edges.
 
 ## How do I use this with Visual Studio 2012 or 2013?
