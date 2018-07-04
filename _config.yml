@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-title: ./README.md
-description: murat.girg.in
+title: def blog():
+description: "    print('hello')"
 show_downloads: false
 google_analytics: UA-37101458-1
