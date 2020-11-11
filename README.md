@@ -8,4 +8,4 @@
 - [Twitter](https://twitter.com/murat_girgin)
 - [GitHub](https://github.com/muratg)
 - [GitLab](https://gitlab.com/muratg)
-- [LinkedIn](TBD)
+- [LinkedIn](https://www.linkedin.com/in/mgirgin/)
